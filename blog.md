@@ -153,7 +153,3 @@ log4j.appender.logstash.RemoteHost=your-logstash-host
 log4j.appender.logstash.ReconnectionDelay=60000
 log4j.appender.logstash.LocationInfo=true
 ```
-
-## 7. 附件
-
-所有的配置文件均已发布到 Github ，有需要的同学可以前往 https://github.com/asmoker/ELKStack 下载使用。
